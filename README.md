@@ -86,3 +86,7 @@ The dataset used in this project is **US_Heart_Patients.csv**, which contains va
 
 This project demonstrates how machine learning can be effectively used for medical risk prediction. By analyzing patient data, the model provides valuable insights that can aid in early detection and prevention of heart attacks.
 
+## Dashboard
+![Dashboard](https://github.com/user-attachments/assets/5b0ba060-98a2-4af3-9480-57efefb876c9)
+
+

@@ -1,6 +1,6 @@
 # Data-Analytics-Projects
 
-# 1) Heart Attack Prediction Using Machine Learning
+# 1) Predictive Healthcare Analytics: Heart Disease Risk Assessment 
 
 ## Project Overview
 
